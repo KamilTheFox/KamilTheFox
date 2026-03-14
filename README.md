@@ -25,6 +25,14 @@
 
 ---
 
+### [CertificateCollectorRm94](https://github.com/KamilTheFox/CertificateCollectorRm94)
+
+Настольное Windows-приложение для оформления, учёта и управления сертификатами страхования автостекол. Написано для реального страхового агента — используется в продакшене с момента выпуска.
+
+`C#` `·` `.NET Framework 4.7.2` `·` `Windows Forms` `·` `Exel Offece`
+
+---
+
 ### [MLTaxi](https://github.com/KamilTheFox/MLTaxi)
 ML-сервис предсказания оптимальной ставки для водителей такси. LightGBM + XGBoost ensemble, FastAPI, Docker, развёрнут на продакшене. Включает валидацию входных данных, логирование ошибок, Swagger-документацию и веб-интерфейс.
 
