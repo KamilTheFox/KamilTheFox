@@ -40,6 +40,13 @@ ML-сервис предсказания оптимальной ставки д�
 
 ---
 
+### [TMXHakaton]([https://github.com/KamilTheFox/MLTaxi](https://github.com/KamilTheFox/TMXHackathon))
+Проект с хакатона ТМХ (ТрансМашХолдинг) Геймификация краудсорсинга и сервис генерации синтетических данных
+
+`Python` `·` `Unity` `·` `3D` `·` `ML` `·` `Docker`
+
+---
+
 ### [VulpesTool](https://github.com/KamilTheFox/VulpesTool)
 Unity Editor toolkit — набор атрибутов для визуальной организации Inspector'а, сериализации интерфейсов, умных кнопок, EnumSearchWindow с поиском и поддержкой Flags. Переиспользуемый пакет для ускорения разработки в Unity.
 
