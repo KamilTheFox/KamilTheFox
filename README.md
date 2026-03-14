@@ -40,7 +40,7 @@ ML-сервис предсказания оптимальной ставки д�
 
 ---
 
-### [TMXHakaton]([https://github.com/KamilTheFox/MLTaxi](https://github.com/KamilTheFox/TMXHackathon))
+### [TMXHakaton]([https://github.com/KamilTheFox/MLTaxi](https://github.com/KamilTheFox/TMXHackathon)
 Проект с хакатона ТМХ (ТрансМашХолдинг) Геймификация краудсорсинга и сервис генерации синтетических данных
 
 `Python` `·` `Unity` `·` `3D` `·` `ML` `·` `Docker`
